@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.14.1" class="java.beans.XMLDecoder">
+ <object class="support.TestData">
+  <void property="brand">
+   <string>Bosch</string>
+  </void>
+  <void property="minPrice">
+   <int>50000</int>
+  </void>
+  <void property="product">
+   <string>посудомоечная машина</string>
+  </void>
+  <void property="realPrice">
+   <int>254453</int>
+  </void>
+ </object>
+</java>
